@@ -25,7 +25,9 @@
 
 =======
 
-## 2019-05-11 Build 973 - Updates
+# See [this](https://wagnerp.github.io/Krypton-NET-5.470/) for latest changes
+
+<!--## 2019-05-11 Build 973 - Updates
 * Fixed issue [#147](https://github.com/Wagnerp/Krypton-NET-5.470/issues/147), hint does not have a designer reset option
 * Fixed issue [#146](https://github.com/Wagnerp/Krypton-NET-5.470/issues/146), PInvoke types should be structures and not classes
 * Fixed issue [#155](https://github.com/Wagnerp/Krypton-NET-5.470/issues/155), new Shadow feature does not handle "Window bar flashing" as expected 
@@ -541,3 +543,4 @@
 * Change Get Set functions to be `inlined`
 * Merge Sequential Checks
 * Clarify precedence with brackets
+-->

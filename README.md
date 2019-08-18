@@ -2,9 +2,13 @@
 
 =======
 
-| NuGet | Current NuGet Version | NuGet Downloads | Github License |
-|---|---|---|---|
-| [![NuGet](https://img.shields.io/badge/NuGet-Krypton%20.NET%205.462-green.svg)](https://www.nuget.org/packages/KryptonToolkitSuite5462/) | ![Nuget](https://img.shields.io/nuget/v/KryptonToolkitSuite5462.svg) | ![Nuget](https://img.shields.io/nuget/dt/KryptonToolkitSuite5462.svg?color=blue&label=NuGet%20Downloads) | ![GitHub](https://img.shields.io/github/license/Wagnerp/Krypton-NET-5.462.svg) |
+| Module Name | Current Version | Github License | 
+|---|---|---|
+| <img src="https://img.shields.io/badge/Module-Core-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonToolkitSuite5462CoreModule) | ![GitHub](https://img.shields.io/github/license/Wagnerp/Krypton-NET-5.462.svg) 
+| <img src="https://img.shields.io/badge/Module-Docking-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonToolkitSuite5462DockingModule) | ![GitHub](https://img.shields.io/github/license/Wagnerp/Krypton-NET-5.462.svg) |
+| <img src="https://img.shields.io/badge/Module-Navigator-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonToolkitSuite5462NavigatorModule) | ![GitHub](https://img.shields.io/github/license/Wagnerp/Krypton-NET-5.462.svg) |
+| <img src="https://img.shields.io/badge/Module-Ribbon-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonToolkitSuite5462RibbonModule) | ![GitHub](https://img.shields.io/github/license/Wagnerp/Krypton-NET-5.462.svg) |
+| <img src="https://img.shields.io/badge/Module-Workspace-orange.svg" /> | ![Nuget](https://img.shields.io/nuget/v/KryptonToolkitSuite5462WorkspaceModule) | ![GitHub](https://img.shields.io/github/license/Wagnerp/Krypton-NET-5.462.svg) |
 
 =======
 
@@ -13,15 +17,6 @@
 =======
 
 # <img src="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard/blob/master/Assets/Icons/PNG/KR%2064%20%20x%2064%20Purple.png" /><a href="https://github.com/Wagnerp/Krypton-NET-Version-Dashboard"> <img src="https://img.shields.io/badge/GitHub-Krypton%20Releases-blueviolet.svg" alt="Krypton Releases" /></a>
-
-=======
-
-## 2019-05-20 Build 1103 - Bugfixes
-* Fixed issue [#179](https://github.com/Wagnerp/Krypton-NET-5.470/issues/179), KryptonTreeView with CheckBox and Image does not leave a "Gap"
-* Fixed issue [#176](https://github.com/Wagnerp/Krypton-NET-5.470/issues/176), Can not hide checkboxes for nodes in KryptonTreeView
-* Fixed issue [#148](https://github.com/Wagnerp/Krypton-NET-5.470/issues/148), Remove license demos & installer
-* Fixed issue [#140](https://github.com/Wagnerp/Krypton-NET-5.470/issues/130), Removed errant 2018 projects
-* Build 1103 (build date Monday 20th May, 2019) is now available on NuGet
 
 =======
 
